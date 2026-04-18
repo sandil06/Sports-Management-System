@@ -56,9 +56,9 @@ npm start         # http://localhost:3000
 ## 🔐 Demo Credentials
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | admin@sliit.lk | admin123 |
+| Admin | sujithawijethunga06@gmail.com | admin123 |
 | Coach | coach@sliit.lk | coach123 |
-| Student | student@sliit.lk | student123 |
+| Student | dharmarathnajayasooriya6@gmail.com | user123 |
 | Sponsor | sponsor@sportzone.lk | sponsor123 |
 
 **Stripe test card:** `4242 4242 4242 4242` · any future date · any CVC
